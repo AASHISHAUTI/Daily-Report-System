@@ -3,5 +3,5 @@ Daily Report System
 
 
 Admin Login
-user name:- aashish 
+user name:- aashish  and
 password:- 12345
